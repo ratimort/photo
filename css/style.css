@@ -295,6 +295,7 @@ footer {
     text-align: center;
     margin: 0 0 1vw; }
   .photo .img-item {
+    display: flex;
     margin-top: 2vw;
     position: relative;
     display: inline-block;
