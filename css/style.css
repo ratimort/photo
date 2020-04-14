@@ -298,7 +298,6 @@ footer {
     display: flex;
     margin-top: 2vw;
     position: relative;
-    display: inline-block;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     -webkit-transition: all .3s ease;
