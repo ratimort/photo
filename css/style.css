@@ -336,6 +336,7 @@ footer {
     -webkit-box-flex: 50%;
     -ms-flex: 50%;
     flex: 50%;
+    display: table;
     padding: 1vw 1vw;
     position: relative; }
     .photo .column img {
