@@ -116,6 +116,20 @@ footer .item-left h2 {
 .about .item .img {
 	padding: 30px 50px;
 }
+.photo .item {
+	padding: 0 10px;
+	width: 100%;
+}
+.photo .column {
+	padding: 10px 10px;
+}
+.photo .img-item {
+	margin-top: 20px;
+}
+.photo .column img {
+	position: unset;
+	vertical-align: unset;
+}
 }
 @media only screen and (max-width: 991px) {
 /*.header .row .menu-toggle {
