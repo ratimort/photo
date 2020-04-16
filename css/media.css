@@ -93,7 +93,7 @@ footer .item-left h2 {
 .photo {
 	margin: 100px 0 50px;
 }
-.photo .img-item .fade-text {
+.photo .column .item .item-i {
 	display: none;
 }
 .about {
@@ -117,18 +117,13 @@ footer .item-left h2 {
 	padding: 30px 50px;
 }
 .photo .item {
-	padding: 0 10px;
 	width: 100%;
 }
 .photo .column {
-	padding: 10px 10px;
+	padding: 10px;
 }
-.photo .img-item {
+.photo .column .item {
 	margin-top: 20px;
-}
-.photo .column img {
-	position: unset;
-	vertical-align: unset;
 }
 }
 @media only screen and (max-width: 991px) {
@@ -258,6 +253,15 @@ footer .item-right h2 {
 }
 .about .item .text-a .text-p {
 	padding: 0 20px;
+}
+.photo .item {
+	width: 100%;
+}
+.photo .column {
+	padding: 5px;
+}
+.photo .column .item {
+	margin-top: 5px;
 }
 }
 
